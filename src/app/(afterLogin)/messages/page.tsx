@@ -1,3 +1,3 @@
 export default function Explore() {
-  return <div>탐색페이지</div>;
+  return <div>쪽지페이지</div>;
 }
